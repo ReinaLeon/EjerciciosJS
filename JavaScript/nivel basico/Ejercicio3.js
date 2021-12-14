@@ -1,0 +1,2 @@
+
+prompt("ingresa tu nombre");
